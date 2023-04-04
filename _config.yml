@@ -17,7 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home Base"}
-  - {file: "README.md"}
+ # - {file: "README.md"}
+  - {title: "Research"}
+  - {title: "CV"}
+  - {title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:umberto.platini@unibocconi.it"}

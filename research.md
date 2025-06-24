@@ -21,9 +21,9 @@ Parliamentary democracies commonly exhibit relatively high degrees of voting coh
 
 ### Work in progress
 
-**"The Political Economy of Endogenous Crises"** \\
+**"The Political Economy of Endogenous Crises"** 
 
-**"Violent Strikes and Political Representation: a study on the complementarities of political representation and labour strikes in the French Third Republic" – With Massimo Morelli, Andrea Ariu and Mara Squicciarrini**
+**"Violent Strikes and Political Representation: a study on the complementarities of political representation and labour strikes in the French Third Republic"** (With Massimo Morelli, Andrea Ariu and Mara Squicciarrini)
 
 
 

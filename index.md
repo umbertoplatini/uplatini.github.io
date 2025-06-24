@@ -2,7 +2,6 @@
 layout: page
 title: ""
 ---
-<h1 style="text-align: center; font-size: 2.5em;">Ciao!</h1>
 
 <div style="text-align: center;">
   <img src="/assets/img/PTN06613.jpg" alt="Umberto's photo" width="600">

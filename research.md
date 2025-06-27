@@ -5,12 +5,25 @@ title: "Research"
 
 **"Ideology and the Strategic Use of Executive Action: Evidence from the Italian Case"**
 <p style="font-size: 0.9em; color: #555;">
-The paper analyses the role of government fragmentation as a predictor of the use of emergency decrees in parliamentary democracies. In particular, it focuses on the relationship between ideological divisiveness within cabinets and the choice by executives to issue emergency decrees rather than initiating ordinary legislative procedures. A Bayesian multilevel analysis conducted on the population of government-initiated legislation in Italy between 1996 and 2018 finds significant evidence that those legislative proposals which are further away from the ideological centre of gravity of the executive are around three times more likely to be issued as emergency decrees. Likewise, legislative projects regulating more contentious policy areas are significantly more likely to be issued by decree. However, for more contentious issues the importance of ideological distance as a predictor diminishes. This evidence suggests that cabinets prefer decrees to ordinary legislative procedures when they expect that the bargaining environment in Parliament is more hostile. These results persist regardless of the fluctuations of the political-economic cycle. Their robustness is also tested against a battery of controls and against fixed effects both at the government level and at the legislature level. \\
+The paper analyses the role of government fragmentation as a predictor of the use of emergency decrees in parliamentary democracies. In particular, it focuses on the relationship between ideological divisiveness within cabinets and the choice by executives to issue emergency decrees rather than initiating ordinary legislative procedures. A Bayesian multilevel analysis conducted on the population of government-initiated legislation in Italy between 1996 and 2018 finds significant evidence that those legislative proposals which are further away from the ideological centre of gravity of the executive are around three times more likely to be issued as emergency decrees. Likewise, legislative projects regulating more contentious policy areas are significantly more likely to be issued by decree. However, for more contentious issues the importance of ideological distance as a predictor diminishes. This evidence suggests that cabinets prefer decrees to ordinary legislative procedures when they expect that the bargaining environment in Parliament is more hostile. These results persist regardless of the fluctuations of the political-economic cycle. Their robustness is also tested against a battery of controls and against fixed effects both at the government level and at the legislature level. 
   [Draft](/assets/papers/Ideology and the strategic use of executive action, Umberto Platini, DRAFT.pdf)
   [📄 Download draft](/assets/papers/Ideology and the strategic use of executive action, Umberto Platini, DRAFT.pdf)
 
 
 </p>
+
+ <a href="/assets/papers/Ideology and the strategic use of executive action, Umberto Platini, DRAFT.pdf" download style="
+    display: inline-block;
+    background-color: #e0e0e0;
+    color: #000;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 0.9em;
+  ">
+    📄 Draft
+  </a>
 
 **"Executive Decrees and the Public Opinion: Exploring the Demand-side of Unilateral Action"**
 <p style="font-size: 0.9em; color: #555;">
